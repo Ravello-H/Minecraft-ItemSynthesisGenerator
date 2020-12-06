@@ -3,7 +3,7 @@ A Picture generator,by JavaScript.
 
 *Minecraft Itme Synthesis Generator | Minecraft合成表生成器*
 
-**此生成器仅用于图片生成，非自定义合成表生成器！
+**此生成器仅用于图片生成，非自定义合成表生成器！**
 
 by @Ravello-H
 
