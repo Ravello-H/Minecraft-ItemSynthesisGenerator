@@ -7,7 +7,7 @@ A Picture generator,by JavaScript.
 
 by @Ravello-H
 
-正在开发中...预计上线时间:2021-8
+正在开发中...预计上线时间:2025-8
 
 Dvelopmenting...Expected to be launched in August 2021.
 
